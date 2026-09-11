@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Anil Kumar | AI & Generative AI Developer</title>
+
+    <meta name="description"
+          content="Portfolio of Vuyyuru Anil Kumar, a Computer Science Engineering student interested in AI, Generative AI and software development.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav class="navbar">
+            <div class="logo">Anil Kumar</div>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p class="hello">Hello, I'm</p>
+
+            <h1>Vuyyuru Anil Kumar</h1>
+
+            <h2>
+                CSE Student | Aspiring AI & Generative AI Developer
+            </h2>
+
+            <p class="hero-text">
+                I am a Computer Science and Engineering student passionate
+                about Artificial Intelligence, Generative AI and software
+                development.
+            </p>
+
+            <div class="buttons">
+                <a href="#projects" class="btn primary">
+                    View My Projects
+                </a>
+
+                <a href="#contact" class="btn secondary">
+                    Contact Me
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section id="about" class="section">
+
+        <h2 class="section-title">About Me</h2>
+
+        <div class="about-container">
+
+            <p>
+                I am a Computer Science and Engineering student at
+                Dhanekula Institute of Engineering and Technology.
+                I have a strong foundation in C, Java, Python and HTML.
+            </p>
+
+            <p>
+                I am interested in Artificial Intelligence, Generative AI,
+                programming and software development. I enjoy solving
+                problems, learning new technologies and building practical
+                applications.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills" class="section">
+
+        <h2 class="section-title">Technical Skills</h2>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+                <h3>Programming</h3>
+                <p>C</p>
+                <p>Java</p>
+                <p>Python</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Web Technologies</h3>
+                <p>HTML</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Interests</h3>
+                <p>Artificial Intelligence</p>
+                <p>Generative AI</p>
+                <p>Software Development</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Strengths</h3>
+                <p>Problem Solving</p>
+                <p>Logical Reasoning</p>
+                <p>Analytical Thinking</p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Projects -->
+    <section id="projects" class="section">
+
+        <h2 class="section-title">My Projects</h2>
+
+        <div class="projects-grid">
+
+            <div class="project-card">
+
+                <div class="project-number">01</div>
+
+                <h3>GramCare AI</h3>
+
+                <p class="project-subtitle">
+                    Multilingual Rural Healthcare Screening Platform
+                </p>
+
+                <p>
+                    AI-focused healthcare screening platform designed
+                    to support rural users through multilingual and
+                    accessible digital interaction.
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-number">02</div>
+
+                <h3>Debug Pro</h3>
+
+                <p class="project-subtitle">
+                    Program Debugging Tool
+                </p>
+
+                <p>
+                    A software development tool designed to assist users
+                    in identifying and resolving programming errors,
+                    improving debugging and problem-solving efficiency.
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-number">03</div>
+
+                <h3>Weather Forecast Application</h3>
+
+                <p class="project-subtitle">
+                    Weather Information Application
+                </p>
+
+                <p>
+                    Application for checking weather information for
+                    different cities and providing convenient forecast
+                    details.
+                </p>
+
+                <a href="#" class="project-link">
+                    View Project →
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Education -->
+    <section id="education" class="section">
+
+        <h2 class="section-title">Education</h2>
+
+        <div class="education-container">
+
+            <div class="education-card">
+
+                <span>2024 - 2028</span>
+
+                <h3>
+                    Bachelor of Technology - Computer Science and Engineering
+                </h3>
+
+                <p>
+                    Dhanekula Institute of Engineering and Technology
+                </p>
+
+                <p>
+                    Expected Graduation: 2028
+                </p>
+
+            </div>
+
+
+            <div class="education-card">
+
+                <span>2024</span>
+
+                <h3>Intermediate - MPC</h3>
+
+                <p>
+                    Narayana Junior College, Vuyyuru
+                </p>
+
+                <p>
+                    Percentage: 82.4%
+                </p>
+
+            </div>
+
+
+            <div class="education-card">
+
+                <span>2022</span>
+
+                <h3>10th Class</h3>
+
+                <p>
+                    Sri Srinivasa Aksharalayam (EM) HS, Vuyyuru
+                </p>
+
+                <p>
+                    Percentage: 84.0%
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Training -->
+    <section class="section">
+
+        <h2 class="section-title">Training & Activities</h2>
+
+        <div class="training-card">
+
+            <h3>Caliby AI Academy Training</h3>
+
+            <p>
+                AI and technical skills training focused on developing
+                technical knowledge and practical skills relevant to
+                programming and Artificial Intelligence.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- Soft Skills -->
+    <section class="section">
+
+        <h2 class="section-title">Soft Skills</h2>
+
+        <div class="soft-skills">
+
+            <span>Problem Solving</span>
+            <span>Logical Reasoning</span>
+            <span>Analytical Thinking</span>
+            <span>Teamwork</span>
+            <span>Adaptability</span>
+            <span>Communication</span>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="section contact">
+
+        <h2 class="section-title">Let's Connect</h2>
+
+        <p>
+            Interested in AI, Generative AI and software development?
+            Feel free to connect with me.
+        </p>
+
+        <div class="contact-links">
+
+            <a href="mailto:anilvuyyuru26@gmail.com">
+                Email Me
+            </a>
+
+            <!-- Replace # with your GitHub profile -->
+            <a href="https://github.com/YOUR_USERNAME"
+               target="_blank">
+                GitHub
+            </a>
+
+            <!-- Replace # with your LinkedIn profile -->
+            <a href="#"
+               target="_blank">
+                LinkedIn
+            </a>
+
+        </div>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © 2026 Vuyyuru Anil Kumar. All Rights Reserved.
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
